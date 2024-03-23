@@ -10,5 +10,5 @@ pip3 install -r requirements.txt
 
 ## usage
 ```
-python3 download_logs.py <LOG_GROUP> <LOG_STREAM>
+python3 download_logs.py <INSTANCE_ID>
 ```
